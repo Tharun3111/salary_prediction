@@ -1,7 +1,7 @@
 # Salary Prediction Dataset - README
   
 ## Overview
-
+  
 The **Salary Prediction Dataset** is a comprehensive collection of salary and demographic information, sourced from Kaggle. This dataset offers a valuable resource for studying the relationships between income and various socio-demographic factors. It provides insights into how factors such as age, gender, education, country, and race can influence earning potential. Additionally, the dataset includes details on years of experience, enabling the analysis of how professional tenure affects salary levels.
 
 ## Dataset Description
